@@ -1,8 +1,8 @@
 class Wheatley < Formula
   desc "Persistent personal AI agent with a daemon, a CLI, and a dashboard"
   homepage "https://github.com/SphericalKat/wheatley"
-  url "https://github.com/SphericalKat/wheatley/releases/download/v0.4.0/wheatley-ai-cli-0.4.0.tgz"
-  sha256 "70894463dc649bec5b1c208f1552b26af76084e80ab17b225955944d9b50e302"
+  url "https://github.com/SphericalKat/wheatley/releases/download/v0.5.0/wheatley-ai-cli-0.5.0.tgz"
+  sha256 "edf40dcac98be9e94408d5892efd3fd47f2d42af156686927cea62c1eb583fd0"
   license "ISC"
 
   depends_on "node"
